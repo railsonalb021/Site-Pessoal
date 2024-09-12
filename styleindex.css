@@ -72,6 +72,49 @@
     font-size: 25px;
   }
 
+  .especialidades {
+    color: #45f772;
+    margin-top: 100px;
+    margin-left: 260px;
+    font-size: 30px;
+  }
+
+  .especialidades_li {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 265px;
+    margin-top: 5px;
+  }
+
+  .objetivos {
+    color: #45f772;
+    margin-top: -120px;
+    margin-left: 650px;
+    font-size: 30px;
+  }
+
+  .objetivos_li {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 659px;
+    margin-top: 5px;
+  }
+
+  .experiências {
+    color: #45f772;
+    margin-top: -120px;
+    margin-left: 1100px;
+    font-size: 30px;
+  }
+
+  .experiências_li {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 1105px;
+    margin-top: 5px;
+  }
+
+
   footer {
     background-color: #14141a;
     color: white;

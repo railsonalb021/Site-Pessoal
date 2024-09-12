@@ -94,7 +94,21 @@
     display: flex;
     align-items: center;
   }
+
+  .currículo_img {
+    margin-top: 20px;
+    margin-left: 1000px;
+    height: 550px;
+  }
+
+  .currículo_title {
+    color: #45f772;
+    margin-top: -270px;
+    margin-left: 1090px;
+  }
   
+
+
   .github-img {
     padding-left: 8px;
     padding-bottom: 11px;
