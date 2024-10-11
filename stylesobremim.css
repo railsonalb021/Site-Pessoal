@@ -4,6 +4,9 @@
     padding: 0;
   }
   h1, h1_1 {
+    text-decoration: underline 2px;
+    text-underline-offset: 10px;
+    font-style: italic;
     color: #ffffff;
     padding-left: 50px;
     padding-top: 20px;
@@ -12,6 +15,7 @@
     font-family: 'Roboto', sans-serif;
   }
   .h1-experiencia {
+    font-style: italic;
     color: #ffffff;
     padding-top: 30px;
     user-select: none;
@@ -25,6 +29,7 @@
   }
 
   a {
+    font-style: italic;
     color: #fff;
     text-decoration: none;
     transition: 0.3s;
@@ -38,6 +43,7 @@
      0 0 30px rgb(84, 232, 129, 0.5);
   }
   .container_p {
+      font-style: italic;
       display: flex;
       justify-content: center;
       align-items: center; 
@@ -45,6 +51,7 @@
       font-size: 23px;
   }
   p {
+    font-style: italic;
     padding-top: 25px;
     color: white;
     padding-left: 8px;
@@ -55,6 +62,7 @@
     font-size: 17px;
   }
   footer {
+    font-style: italic;
     background-color: #14141a;
     color: white;
     width: 100%;
@@ -137,7 +145,7 @@
     background: url("https://img.freepik.com/fotos-gratis/fundo-cinza-suave_53876-108462.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1724112000&semt=ais_hybrid")
     no-repeat center center;
     background-size: cover;
-    height: 110vh;
+    height: 160vh;
   }
   .logo {
     padding-top: 10px;
@@ -156,6 +164,7 @@
   }
   
   nav a {
+    font-style: italic;
     color: white;
     text-decoration: none;
     padding: 0px 50px 10px 0;
@@ -186,7 +195,15 @@
     letter-spacing: 3px;
     margin-left: 32px;
   }
+
+  .certificações {
+    text-align: center;
+    margin-left: -40px;
+    margin-top: -20px;
+  }
   
+
+
   .img1 {
     margin-top: 30px;
     margin-left: 100px;
@@ -205,6 +222,33 @@
   }
 
   .img3 {
+    margin-left: 90px;
+    border-radius: 30px;
+    width: 400px;
+    height: 300px;
+    border-style: groove;
+  }
+
+  .img4 {
+    margin-top: 15px;
+    margin-left: 100px;
+    border-radius: 30px;
+    width: 400px;
+    height: 300px;
+    border-style: groove;
+  }
+
+  .img5 {
+    margin-top: 15px;
+    margin-left: 120px;
+    border-radius: 30px;
+    width: 400px;
+    height: 300px;
+    border-style: groove;
+  }
+
+  .img6 {
+    margin-top: 15px;
     margin-left: 90px;
     border-radius: 30px;
     width: 400px;

@@ -22,6 +22,7 @@
   }
 
   .title_dev {
+    font-style: italic;
     font-size: 40px;
     text-align: center;
     padding-top: 25px;
@@ -49,7 +50,8 @@
   }
   
   .bachira {
-    border-radius: 90px;
+    border-style: groove;
+    border-radius: 900px;
     width: 200px;
     height: 200px;
     margin-left: 260px;
@@ -58,6 +60,9 @@
   }
 
   .bachira_title {
+    text-decoration: underline 3px;
+    text-underline-offset: 8px;
+    font-style: italic;
     margin-left: 500px;
     margin-top: -200px;
     font-size: 90px;
@@ -68,11 +73,13 @@
   }
 
   .bachira_p {
+    font-style: italic;
     margin-left: 504px;
     font-size: 25px;
   }
 
   .especialidades {
+    font-style: italic;
     color: #45f772;
     margin-top: 100px;
     margin-left: 260px;
@@ -81,6 +88,7 @@
   }
 
   .especialidades_li {
+    font-style: italic;
     color: #ffffff;
     font-size: 20px;
     margin-left: 265px;
@@ -89,6 +97,7 @@
   }
 
   .objetivos {
+    font-style: italic;
     color: #45f772;
     margin-top: -120px;
     margin-left: 650px;
@@ -97,6 +106,7 @@
   }
 
   .objetivos_li {
+    font-style: italic;
     color: #ffffff;
     font-size: 20px;
     margin-left: 659px;
@@ -105,6 +115,7 @@
   }
 
   .experiências {
+    font-style: italic;
     color: #45f772;
     margin-top: -120px;
     margin-left: 1100px;
@@ -113,6 +124,7 @@
   }
 
   .experiências_li {
+    font-style: italic;
     color: #ffffff;
     font-size: 20px;
     margin-left: 1105px;
@@ -122,6 +134,7 @@
 
 
   footer {
+    font-style: italic;
     background-color: #14141a;
     color: white;
     width: 100%;
@@ -170,6 +183,25 @@
    
   }
  
+  .yt_text a {
+    margin-top: 50px;
+    margin-left: 610px;
+    font-size: 40px;
+    font-style: italic;
+  }
+
+  .yt_title {
+    text-decoration: underline 2px;
+    text-underline-offset: 8px;
+    margin-top: 50px;
+    margin-left: -200px;
+    font-size: 60px;
+    margin-left: 700px;
+    font-style: italic;
+  }
+
+
+
   .github-img {
     padding-left: 8px;
     padding-bottom: 11px;
@@ -215,7 +247,7 @@
     background: url("https://img.freepik.com/fotos-gratis/fundo-cinza-suave_53876-108462.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1724112000&semt=ais_hybrid")
     no-repeat center center;
     background-size: cover;
-    height: 110vh;
+    height: 150vh;
   }
   .logo {
     padding-top: 10px;
@@ -234,6 +266,7 @@
   }
   
   nav a {
+    font-style: italic;
     color: white;
     text-decoration: none;
     padding: 0px 50px 10px 0;
@@ -288,4 +321,10 @@
     width: 400px;
     height: 300px;
     border-style: groove;
+  }
+
+  .hr_canal {
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 1200px;
   }

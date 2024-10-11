@@ -78,15 +78,6 @@ body {
     height: 30px;
     padding-right: 10px;
   }
-  .caixa, .caixa1, .caixa2, .caixa3, .caixa4 {
-      width: 220px;
-      height: 60px; 
-      border: 2px solid #51d26b; 
-      padding: 20px; 
-      margin: 20px; 
-      box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
-      border-radius: 10px; 
-  }
   .github-img {
     padding-left: 8px;
     padding-bottom: 11px;
